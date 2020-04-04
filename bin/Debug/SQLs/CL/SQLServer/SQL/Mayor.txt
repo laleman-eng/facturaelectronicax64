@@ -1,0 +1,19 @@
+DECLARE @FechaD  varchar(8) = '20160101'
+	   ,@FechaH  Varchar(8) = '20160131'
+
+SELECT CASE WHEN ROW_NUMBER() OVER(PARTITION BY T1.Account ORDER BY T1.Account ASC) = 1 THEN T1.Account
+																						ELSE ''
+	   END																												[CodigoCuenta]
+	  ,'U'																												[TipoComprobante]
+	  ,T0.TransId 																										[NumeroComprobante]
+	  ,T0.RefDate																										[FechaContable]
+	  ,T1.LineMemo																										[GlosaInicio]
+	  ,T1.Debit																											[Debe]
+	  ,T1.Credit																										[Haber]
+FROM OJDT T0
+JOIN JDT1 T1 ON T0.TransId = T1.TransId
+JOIN OACT T2 ON T1.Account = T2.AcctCode
+WHERE T0.RefDate BETWEEN @FechaD AND @FechaH
+ORDER BY T1.Account
+		,T0.RefDate
+

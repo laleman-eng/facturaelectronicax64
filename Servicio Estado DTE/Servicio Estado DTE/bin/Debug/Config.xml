@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuracion>
+	<ServidorSAP>
+		<Servidor>DESKTOP-QKQS27</Servidor>
+		<ServLicencia>DESKTOP-QKQS27:30000</ServLicencia>
+		<UsuarioSAP>manager</UsuarioSAP>
+		<PasswordSAP>12345</PasswordSAP>
+		<SQL>2014</SQL>
+		<UsuarioSQL>sa</UsuarioSQL>
+		<PasswordSQL>b1admin</PasswordSQL>
+	</ServidorSAP>
+	<BasesSAP>
+		<BaseSAP>VisualK_CL</BaseSAP>
+	</BasesSAP>
+	<SistemaSAP>
+		<SAP>SQL</SAP>
+	</SistemaSAP>
+	<EasyDoc>
+		<!--21 Consultar estado DTE enviado por el addon -->
+		<Procesa21>Si</Procesa21>
+		<OP21>'http://portal.easydoc.cl/consulta/generaciondte.aspx?RUT={0}&amp;TIPODTE={1}&amp;FOLIO={2}&amp;OP=21'</OP21>
+		<!--27 rescate de informacion documento proveedores 1 a 1 -->
+		<Procesa27>Si</Procesa27>
+		<OP27>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=27'</OP27>
+		<!--28 rescate de informacion documento emitidos 1 a 1 -->
+		<Procesa28>Si</Procesa28>
+		<OP28>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=28'</OP28>
+		<!--29 Documentos Emitidos,  uso de web services de forma directa: para obtener el estado del documento en el SII, su fecha de recepcion y el registro de aceptacion o reclamo que pueda tener el documento-->
+		<Procesa29>Si</Procesa29>
+		<OP29>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=29'</OP29>
+		<!--30 Documentos Proveedores,  uso de web services de forma directa: para obtener validez del documento en el SII, su fecha de recepcion y el registro de aceptacion o reclamo que pueda tener el documento -->
+		<Procesa30>Si</Procesa30>
+		<OP30>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=30'</OP30>
+		<!--31 Registro de Aceptacion o Reclamo, el uso de este web service es para dejar el registro de aceptacion o reclamo en el SII el cual ademas dejara un registro en las tablas de easydoc.
+               se debe pasar el paaemetro extra "CODAR", para indicar el registro deseado -->
+		<Procesa31>Si</Procesa31>
+		<OP31>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;CODAR={4}&amp;OP=31'</OP31>
+		<!--36 recibe documentos de compra desde el portal, filtro intervalo fechas-->
+		<Procesa36>Si</Procesa36>
+		<OP36>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FECHAINI={1}&amp;FECHAFIN={2}&amp;OP=36'</OP36>
+	</EasyDoc>
+	<Mail>
+		<EnviarMail>No</EnviarMail>
+		<HoraEnvio1>15:07</HoraEnvio1>
+		<HoraEnvio2></HoraEnvio2>
+		<MailFrom>pel@gmail.com</MailFrom>
+		<MailSmtpHost>smtp.gmail.com</MailSmtpHost>
+		<MailUser>pel@gmail.com</MailUser>
+		<MailPass>xxx</MailPass>
+		<Puerto>587</Puerto>
+    </Mail>
+</Configuracion>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuracion>
+	<ServidorSAP>
+		<Servidor>DESKTOP-QKQS27</Servidor>
+		<ServLicencia>DESKTOP-QKQS27:30000</ServLicencia>
+		<UsuarioSAP>manager</UsuarioSAP>
+		<PasswordSAP>12345</PasswordSAP>
+		<SQL>2014</SQL>
+		<UsuarioSQL>sa</UsuarioSQL>
+		<PasswordSQL>b1admin</PasswordSQL>
+	</ServidorSAP>
+	<BasesSAP>
+		<BaseSAP>VisualK_CL</BaseSAP>
+	</BasesSAP>
+	<SistemaSAP>
+		<SAP>SQL</SAP>
+	</SistemaSAP>
+	<EasyDoc>
+		<Procesa21>Si</Procesa21>
+		<OP21>'http://portal.easydoc.cl/consulta/generaciondte.aspx?RUT={0}&amp;TIPODTE={1}&amp;FOLIO={2}&amp;OP=21'</OP21>
+		<Procesa27>Si</Procesa27>
+		<OP27>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=27'</OP27>
+		<Procesa28>Si</Procesa28>
+		<OP28>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=28'</OP28>
+		<Procesa29>Si</Procesa29>
+		<OP29>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=29'</OP29>
+		<Procesa30>Si</Procesa30>
+		<OP30>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=30'</OP30>
+		<Procesa31>Si</Procesa31>
+		<OP31>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;CODAR={4}&amp;OP=31'</OP31>
+		<Procesa36>Si</Procesa36>
+		<OP36>'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FECHAINI={1}&amp;FECHAFIN={2}&amp;OP=36'</OP36>
+	</EasyDoc>
+	<Mail>
+		<EnviarMail>No</EnviarMail>
+		<HoraEnvio1>15:07</HoraEnvio1>
+		<HoraEnvio2></HoraEnvio2>
+		<MailFrom>pel@gmail.com</MailFrom>
+		<MailSmtpHost>smtp.gmail.com</MailSmtpHost>
+		<MailUser>pel@gmail.com</MailUser>
+		<MailPass>xxx</MailPass>
+		<Puerto>587</Puerto>
+    </Mail>
+</Configuracion>

@@ -1,0 +1,5 @@
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug\Factura Electronica VK 2.csprojAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug\Factura_Electronica_VK.Form1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug\Factura_Electronica_VK.Properties.Resources.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug\Factura Electronica VK 2.csproj.GenerateResource.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug\Factura Electronica VK 2.csproj.CoreCompileInputs.cache

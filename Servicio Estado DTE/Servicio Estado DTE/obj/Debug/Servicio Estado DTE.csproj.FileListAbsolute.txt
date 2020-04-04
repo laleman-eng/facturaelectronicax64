@@ -1,0 +1,52 @@
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\obj\Debug\Interfaz_FE_Orica.ProjectInstaller.resources
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\bin\Debug\Servicio Estado DTE.exe.config
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\bin\Debug\Servicio Estado DTE.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\bin\Debug\Servicio Estado DTE.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\obj\Debug\Servicio Estado DTE.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Interfaz FE Orica\obj\Debug\Servicio Estado DTE.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+\\vmware-host\Shared Folders\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+C:\Visualk\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache

@@ -1,0 +1,92 @@
+﻿Version 9.03.67 
+	-> Se cambia matrix de referencia de documento por un grilla en los documentos de Nota de Credito y Nota de Debito
+Version 9.03.69
+    -> Se puede crear Factura de exportacion electronica desde Factura de Reserva en SAP
+	-> Valida que serie electronica para Exportacion no se pueda seleccionar desde formulario Factura normal
+    -> Se creo campo en Maestro Socio Negocio (U_FE_Export valor Y - N) para reconoer un cliente de exportacion, se valida por el addon y por Transaction Notification
+Version 9.03.70
+	-> Se creo nueva columna en Configuracion Impuestos Adicionales (Gestion -> Definiciones -> Facturacion Electronica -> Codificacion Impto. Ad.) para ingresar el porcentaje de la retencion de impuesto,
+       el addon valida el porcentaje con el igresado en la factura de compra, solo para Documento electronico 46
+Version 9.03.71
+	-> Se habilita FE Peru con EasyDoc, puntos a considerar para la implentacion
+		-> Moneda, en las definiciones de Moneda columna Codigo Internacional SOL es PEN, USD es USD, se basa en ISO 4217 Currency Codes
+		-> Tener ingresado los datos en Configuracon de Impuestos (Gestion -> Definiciones -> Facturacion Electronica -> Configuracion de Impuestos), asi en xml se incorpora tag Gravado, Inafectas, Exoneradas, Gratuitas
+			Impuesto SAP	Codigo Impto Sunat
+			IGV				10
+			IGV_EX			20
+		-> Tener ingresado los datos en Tipos de Notas(Gestion -> Definiciones -> Facturacion Electronica -> Tipos de Notas), se usa para Nota de Credito y Nota de Debito
+			Codigo	descripcion							Codigo Sunat
+			01		Anulacion de Operacion				01
+			02		Anulacion por error de RUC			02
+			03		Correcion por error en la dsc		03
+			04		Descuento Global					04
+			05		Descuento por Item					05
+			06		Descuento Total						06
+			07		Devolucion por Item					07
+			08		Bonificacion						08
+			09		Desminucion en el valor				09
+			10		Interes por Mora para Nota Debito	01
+			11		Aumento de Valor para Nota Debito	02
+			12		Penalidades para Nota Debito		03
+		-> Los Documentos Factura, Nota de Debito y Nota de Credito debe tener RUC ingresado en Folder Finanzas en el documento
+		-> Tambien tener en cuenta que en el Maestro Socio de Negocio debe tener ingresado los campos BPP: Tipo de Documento y BPP: Tipo de persona
+	-> Se habilita la validacion de RUC al crear Documento Electronico
+Version 9.03.72
+	-> Se habilita la opcion de Reutilizar un Folio, se selecciona el tipo documento y se ingresa el numero de folio, al presionar buscar revisa que el folio este realmente rechazado en VID_FELOG, y lista documentos que no tengan numero de folio
+	   y que sean del mismo tipo documento y ObjType del folio rechazado. Al presionar Crear el addon primero asigna el folio rechazado al documento nuevo, luego actualiza la tabla de Distribucion de Folios para registrar los datos del nuevo documento,
+	   en tercer lugar el addon deja en null el campo FolioNum, FolioPref y LPgFolioN del documento original que fue rechazado, en un cuarto paso inserta un registro en la tabla VID_FERECHAZO con los datos basicos del documento original rechazado para
+	   tener un historial, luego procede a eliminar registro de la tabla VID_FELOG y por ultimo envia el documento nuevo al portal
+	-> Se habilita Servico para actualizar estado de documentos enviados solamente
+Version 92.1.001
+	-> Se elimina campos de usuario Monto Flete y Monto Seguro en los documentos de marketing, estos campos se usan para Factura de Exportacion, estos valores se usara a partir de ahora en Gastos Adicionales, asi se contabilizaran automaticamente en SAP
+	-> Todos los documento se envian al portal por webservice
+	-> Descarga de CAF se realiza por webservice (http://portal.easydoc.cl/consulta/generaciondte.aspx?RUT={0}&amp;TIPODTE={1}&amp;OP=22)
+	-> Un documento al ser guardado como preliminar o que pase por procedimiento de autorizacion no consumira folio del addon (anteriormente dejaba folio en Reservado)
+	-> Un documento al ser guardado como preliminar o que pase por procedimiento de autorizacion ya sea Nota de Credito o Nota de debito guardara el documento de referencia (referencia del addon, documentos no relacionados por SAP)
+Version 92.1.002
+	-> Se mejora la funcion de guardar referencias para notas de creditos  y nota de debito al ser guardados como preliminar o por procedimiento de autorizacion
+	-> Se incluye manejo documento Liquidacion de Factura
+Version 92.1.004
+	-> Se incluye documento para anular Liquidacion de Factura, para ello se envia a SII una nueva Liquidacion de Factura pero con montos negativos, como en SAP no se puede crear un documento con totalese
+	   negativos se debe crear una Nota de Debito (con serie identificada como liquidacion de factura), el addon enviara los datos con signo negativo al portal
+	-> Da la opcion que el manejo de folio sea desde el portal, para ello se crearon nuevos campos en los parametros del addon para indicar las siguientes URL
+		OP18 Opcion hace que el portal procese el DTE -> http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&FOLIO={1}&TIPODTE={2}&OP=18
+		OP8 Recupera el timbre que genero el portal -> http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&FOLIO={1}&TIPODTE={2}&OP=8
+		Enviar PDF al portal -> http://rest.easydoc.cl/api/Dte/SavePdf
+	-> URL necesarios para el funcionamiento del addon son
+		Http Portal http://portal.easydoc.cl/Carga/uploadXML.ashx
+		Http Busca CAF http://portal.easydoc.cl/consulta/generaciondte.aspx?RUT={0}&TIPODTE={1}&OP=22
+	-> SE crea DLL para generar los xml que se envian al portal
+Version 92.1.007
+	-> Se mejora la recepcion del mensaje de respuesta al enviar operacion 18 al portal, se muestra respuesta en SAP y se guarda en VID_FELOG
+Version 92.1.007
+	-> Se mejora validacion de nota credito exportacion no sea mayor que la factura que hace relacion
+Version 92.1.008
+	-> En Servicio Estado DTE se cambia archivo Config.xml por Config.txt, el nuevo archivo se encuentra encriptado, para modificar el Config se debe abrir programa Datos que se encuentra en la carpeta donde se instala el servicio
+	   usuario admin password Soportevk1, las operaciones usadas son
+	   OP21 -> 'http://portal.easydoc.cl/consulta/generaciondte.aspx?RUT={0}&amp;TIPODTE={1}&amp;FOLIO={2}&amp;OP=21'
+	   OP27 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=27'
+	   OP28 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=28'
+	   OP29 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=29'
+	   OP30 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;OP=30'
+	   OP31 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FOLIO={1}&amp;TIPODTE={2}&amp;RUT1={3}&amp;CODAR={4}&amp;OP=31'
+	   OP36 -> 'http://portal.easydoc.cl/Consulta/GeneracionDte.aspx?RUT={0}&amp;FECHAINI={1}&amp;FECHAFIN={2}&amp;OP=36'
+	-> En Notas de Credito y Nota de Debito se incorpora tag IndGlobal que va en las referencias, el IndGlobal si tiene valor 1 no solicita documentos de referencia
+Version 92.1.009
+	-> En los parametros del addon se incorpora campos para las validaciones en la integracion con documentos electronicos de compras
+		-> Si se genera factura preliminar o real en SAP
+		-> Diferencia en monto entre OC y Factura recibida
+		-> Dias que puede haber entre OC y Factura recibida
+		-> Si es obligatorio que Factura recibida tenga en SAP una entrada de mercancia
+	-> En Formulario Monitor Estado DTE para Compras se habilito el mostrar pdf de los documentos al hacer doble click en el folio
+	-> En Formulario Aceptación o Reclamacion DTE se incorpora columna OC, que esta habilitada en caso que el documento no tenga en el xml como referencia una 801
+	   en caso de tener una referencia 801la celda aparece bloqueada. Ademas la columna Folio aparece en verde si es posible abrir PDF haciendo doble click
+Version 92.1.010
+	-> Para los documentos:
+		Factura
+		Nota de credito
+		Guia Despacho
+		Factura Compra
+	  se ajusto el query de los impuestos adicionales agrupando por CodImpAdic, PorcImptoAdic y sumando (MontoImptoAdic) 
+Version 92.1.011
+        -> se incorpora el documento Solicitud de traslado (F SP)

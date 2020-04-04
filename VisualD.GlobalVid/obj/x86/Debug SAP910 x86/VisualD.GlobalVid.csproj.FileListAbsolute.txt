@@ -1,0 +1,39 @@
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.GlobalVid.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\Interop.SAPbouiCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.MultiFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOObjectMg1.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.untLog.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.Core.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.Matrix_Helper.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOGeneralService.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.uEncrypt.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.MultiFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOObjectMg1.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.untLog.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.Core.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.Matrix_Helper.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.SBOGeneralService.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug SAP910 x86\VisualD.uEncrypt.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug SAP910 x86\VisualD.GlobalVid.dll

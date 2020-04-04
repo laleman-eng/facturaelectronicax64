@@ -1,0 +1,48 @@
+30-10-2018 16:01:22 Inicio
+30-10-2018 16:01:37 Conectado a SAP -> Base Datos Prueba_LL
+30-10-2018 16:01:41 Conectado a SAP -> Base Datos General_PRUEBAS
+30-10-2018 16:01:41 **Error DejarAceptadoporDefectoVenta, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTEVTA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoVenta(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 994
+30-10-2018 16:01:41 **Error DejarAceptadoporDefectoCompra, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTECPRA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoCompra(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 925
+30-10-2018 16:01:41 Fin
+30-10-2018 16:02:03 Inicio
+30-10-2018 16:02:03 Conectado a SAP -> Base Datos Prueba_LL
+30-10-2018 16:02:04 Conectado a SAP -> Base Datos General_PRUEBAS
+30-10-2018 16:02:04 **Error DejarAceptadoporDefectoVenta, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTEVTA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoVenta(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 994
+30-10-2018 16:02:04 **Error DejarAceptadoporDefectoCompra, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTECPRA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoCompra(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 925
+30-10-2018 16:02:04 Fin
+30-10-2018 16:02:23 Inicio
+30-10-2018 16:02:24 Conectado a SAP -> Base Datos Prueba_LL
+30-10-2018 16:02:25 Conectado a SAP -> Base Datos General_PRUEBAS
+30-10-2018 16:02:25 **Error DejarAceptadoporDefectoVenta, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTEVTA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoVenta(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 994
+30-10-2018 16:02:25 **Error DejarAceptadoporDefectoCompra, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTECPRA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoCompra(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 925
+30-10-2018 16:02:25 Fin
+30-10-2018 16:02:51 Inicio
+30-10-2018 16:02:53 Conectado a SAP -> Base Datos Prueba_LL
+30-10-2018 16:02:54 Conectado a SAP -> Base Datos General_PRUEBAS
+30-10-2018 16:02:54 **Error DejarAceptadoporDefectoVenta, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTEVTA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoVenta(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 994
+30-10-2018 16:02:54 **Error DejarAceptadoporDefectoCompra, base ***GENERAL PRUEBAS***: version 1.0 - 1). [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid object name '@VID_FEDTECPRA'.
+2). [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared.
+ ** Trace:    en SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   en Servicio_Estado_DTE.Service1.DejarAceptadoporDefectoCompra(String CompnyName) en c:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\Service1.cs:línea 925
+30-10-2018 16:02:54 Fin

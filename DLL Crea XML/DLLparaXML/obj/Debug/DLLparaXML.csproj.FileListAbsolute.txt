@@ -1,0 +1,23 @@
+Z:\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.csprojResolveAssemblyReference.cache
+Z:\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.untLog.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.untLog.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.pdb

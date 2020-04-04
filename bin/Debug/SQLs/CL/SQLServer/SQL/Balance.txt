@@ -1,0 +1,11 @@
+DECLARE @FechaD  varchar(8) = '20160101'
+	   ,@FechaH  Varchar(8) = '20160131'
+SELECT T1.Account																										[CodigoCuenta]
+	  ,SUM(T1.Debit)																									[Debe]
+	  ,SUM(T1.Credit)																									[Haber]
+FROM OJDT T0
+JOIN JDT1 T1 ON T0.TransId = T1.TransId
+JOIN OACT T2 ON T1.Account = T2.AcctCode
+WHERE T0.RefDate BETWEEN @FechaD AND @FechaH
+GROUP BY T1.Account, T2.AcctCode
+ORDER BY T1.Account

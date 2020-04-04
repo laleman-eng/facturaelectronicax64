@@ -1,0 +1,97 @@
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura_Electronica_VK.Form1.resources
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura_Electronica_VK.Properties.Resources.resources
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\Visualk\Factura Electronica VK\bin\Debug\Factura Electronica VK.exe.config
+C:\Visualk\Factura Electronica VK\bin\Debug\Factura Electronica VK.exe
+C:\Visualk\Factura Electronica VK\bin\Debug\Factura Electronica VK.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.GlobalVid.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Main.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MainObjBase.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MenuConfFr.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MultiFunctions.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOFunctions.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.untLog.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.vkBaseForm.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.vkFormInterface.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Core.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOCrystalPreview.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.uEncrypt.dll
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.GlobalVid.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Main.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MainObjBase.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MenuConfFr.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.untLog.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.vkBaseForm.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.vkFormInterface.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Core.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.SBOCrystalPreview.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Visualk\Factura Electronica VK\bin\Debug\VisualD.uEncrypt.pdb
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura Electronica VK.exe
+C:\Visualk\Factura Electronica VK\obj\Debug\Factura Electronica VK.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura_Electronica_VK.Form1.resources
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura_Electronica_VK.Properties.Resources.resources
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Factura Electronica VK.exe.config
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Factura Electronica VK.exe
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Factura Electronica VK.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.ADOSBOScriptExecute.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.ChooseFromListSubQuery.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Core.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Dimensions.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Main.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MainObjBase.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MasterDataMatrixForm.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MenuConfFr.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Visuald.ReportWindowFr.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOCrystalPreview.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOGeneralService.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.untLog.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.vkBaseForm.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.vkFormInterface.dll
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.ADOSBOScriptExecute.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.ChooseFromListSubQuery.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Core.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Dimensions.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Main.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MainObjBase.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MasterDataMatrixForm.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MenuConfFr.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\Visuald.ReportWindowFr.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOCrystalPreview.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.untLog.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.vkBaseForm.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\bin\Debug\VisualD.vkFormInterface.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura Electronica VK.exe
+C:\Users\acabello\Desktop\Factura Electronica VK\obj\Debug\Factura Electronica VK.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura_Electronica_VK.Form1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura_Electronica_VK.Properties.Resources.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\VisualK\FacturaElectronicax64\bin\Debug\Factura Electronica.exe.config

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuracion>
+    <ServidorSAP>
+        <Servidor>VMSAP91</Servidor>
+        <BaseSAP>OCPETEST</BaseSAP>
+        <ServLicencia>localhost:30000</ServLicencia>
+        <UsuarioSAP>manager</UsuarioSAP>
+        <PasswordSAP>123456</PasswordSAP>
+		<SQL>2012</SQL>
+		<UsuarioSQL>sa</UsuarioSQL>
+		<PasswordSQL>b1admin</PasswordSQL>
+    </ServidorSAP>
+	<ProcesarFM>
+		<valor>true</valor>
+	</ProcesarFM>
+	<FacturaMovil>
+		<user>ws</user>
+		<pass>UvpssmsTP</pass>
+		<server>produccion.facturamovil.pe</server>
+		<mail>luisa.sanchez@ixom.com</mail>
+		<RUC>20291398902</RUC>
+	</FacturaMovil>
+	<Paths>
+		<PathLocal>C:\Paso\</PathLocal>
+		<PathRemoto>/Desarrollo/</PathRemoto>
+		<PathRemotoLocal>C:\Paso\</PathRemotoLocal>
+	</Paths>
+	<DatosSFTP>
+		<HostName>office.visualk.cl</HostName>
+		<UserName>orica</UserName>
+		<Password>oricavk</Password>
+		<Port>21</Port>
+		<SshHostKey></SshHostKey>
+	</DatosSFTP>
+</Configuracion>
+

@@ -1,0 +1,114 @@
+<DTE>
+  <Documento>
+    <Encabezado>
+      <IdDoc>
+        <FchEmis>2018-04-11</FchEmis>
+        <FchVenc>2018-05-11</FchVenc>
+        <TipoDTE>110</TipoDTE>
+        <Folio>0</Folio>
+        <IndServicio>0</IndServicio>
+        <MntBruto>0</MntBruto>
+        <MntCancel>0</MntCancel>
+        <SaldoInsol>0</SaldoInsol>
+        <TpoTranCompra>
+        </TpoTranCompra>
+        <TpoTranVenta>
+        </TpoTranVenta>
+        <FmaPago>2</FmaPago>
+        <FmaPagExp>0</FmaPagExp>
+      </IdDoc>
+      <Emisor>
+        <CdgVendedor>Héctor Aranzueque</CdgVendedor>
+        <RUTEmisor>14147842-7</RUTEmisor>
+        <RznSoc>Visual Knowledge Chile S.A.</RznSoc>
+        <GiroEmis>xxxxx</GiroEmis>
+        <Sucursal>Central</Sucursal>
+        <Telefono>232217888</Telefono>
+        <CdgSIISucur>0</CdgSIISucur>
+        <Sucursal>
+        </Sucursal>
+      </Emisor>
+      <Receptor>
+        <CiudadPostal>Santiago</CiudadPostal>
+        <CiudadRecep>Santiago</CiudadRecep>
+        <CmnaPostal>Santiago</CmnaPostal>
+        <CmnaRecep>Santiago</CmnaRecep>
+        <Contacto>Andres Matias</Contacto>
+        <CorreoRecep>pelo3000@hotmail.com</CorreoRecep>
+        <DirPostal>Pasaje uno 990</DirPostal>
+        <DirRecep>Pasaje uno 990</DirRecep>
+        <GiroRecep>xxxx</GiroRecep>
+        <RUTRecep>55555555-5</RUTRecep>
+        <RznSocRecep>Andres Cabello</RznSocRecep>
+      </Receptor>
+      <Totales>
+        <CredEC>0</CredEC>
+        <IVA>0</IVA>
+        <IVANoRet>0</IVANoRet>
+        <IVAProp>0</IVAProp>
+        <IVATerc>0</IVATerc>
+        <MntBase>0</MntBase>
+        <MntExe>10</MntExe>
+        <MntMargenCom>0</MntMargenCom>
+        <MntNeto>0</MntNeto>
+        <MntTotal>10</MntTotal>
+        <MontoNF>0</MontoNF>
+        <MontoPeriodo>0</MontoPeriodo>
+        <SaldoAnterior>0</SaldoAnterior>
+        <TasaIVA>0</TasaIVA>
+        <VlrPagar>0</VlrPagar>
+        <TpoMoneda>DOLAR_USA</TpoMoneda>
+      </Totales>
+      <OtraMoneda>
+        <TpoMoneda>PESOS_CL</TpoMoneda>
+        <TpoCambio>600</TpoCambio>
+        <MntExeOtrMnda>6000</MntExeOtrMnda>
+        <MntTotOtrMnda>6000</MntTotOtrMnda>
+      </OtraMoneda>
+    </Encabezado>
+    <Transporte>
+      <Patente>
+      </Patente>
+      <DirDest>Pasaje uno 990</DirDest>
+      <CmnaDest>Santiago</CmnaDest>
+      <CiudadDest>Santiago</CiudadDest>
+      <Aduana>
+        <CodModVenta>1</CodModVenta>
+        <CodClauVenta>0</CodClauVenta>
+        <MntFlete>0</MntFlete>
+        <MntSeguro>0</MntSeguro>
+        <CodViaTransp>0</CodViaTransp>
+        <CodPtoEmbarque>0</CodPtoEmbarque>
+        <CodPtoDesemb>0</CodPtoDesemb>
+        <CodUnidMedTara>0</CodUnidMedTara>
+        <CodUnidPesoBruto>0</CodUnidPesoBruto>
+        <CodUnidPesoNeto>0</CodUnidPesoNeto>
+      </Aduana>
+    </Transporte>
+    <DocumentoInterno>
+      <COMP>138828</COMP>
+    </DocumentoInterno>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <DescuentoMonto>0</DescuentoMonto>
+      <DescuentoPct>0</DescuentoPct>
+      <IndExe>1</IndExe>
+      <MontoItem>10</MontoItem>
+      <CdgItem>
+        <TpoCodigo>INT1</TpoCodigo>
+        <VlrCodigo>SBO.ADO.OTR</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Otros softwares/AddOn</NmbItem>
+      <DscItem>Otros softwares/AddOn</DscItem>
+      <PrcItem>10</PrcItem>
+      <PrcRef>0</PrcRef>
+      <QtyItem>1</QtyItem>
+      <QtyRef>0</QtyRef>
+      <RecargoPct>0</RecargoPct>
+      <UnmdItem>UN</UnmdItem>
+      <CodImpAdic>
+      </CodImpAdic>
+      <RecargoMonto>0</RecargoMonto>
+    </Detalle>
+  </Documento>
+</DTE>

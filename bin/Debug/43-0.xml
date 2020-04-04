@@ -1,0 +1,76 @@
+<DTE>
+  <Liquidacion>
+    <Encabezado>
+      <IdDoc>
+        <FchEmis>2018-02-23</FchEmis>
+        <FchVenc>2018-03-25</FchVenc>
+        <TipoDTE>43</TipoDTE>
+        <Folio>0</Folio>
+      </IdDoc>
+      <Emisor>
+        <CdgVendedor>Héctor Aranzueque</CdgVendedor>
+        <RUTEmisor>14147842-7</RUTEmisor>
+        <RznSoc>Visual Knowledge Chile S.A.</RznSoc>
+        <GiroEmis>xxxxx</GiroEmis>
+        <Sucursal>Central</Sucursal>
+        <Telefono>232217888</Telefono>
+      </Emisor>
+      <Receptor>
+        <CiudadPostal>Santiago</CiudadPostal>
+        <CiudadRecep>Santiago</CiudadRecep>
+        <CmnaPostal>Santiago</CmnaPostal>
+        <CmnaRecep>Santiago</CmnaRecep>
+        <Contacto>Andres Matias</Contacto>
+        <CorreoRecep>pelo3000@hotmail.com</CorreoRecep>
+        <DirPostal>Pasaje uno 990</DirPostal>
+        <DirRecep>Pasaje uno 990</DirRecep>
+        <GiroRecep>xxxx</GiroRecep>
+        <RUTRecep>14147842-7</RUTRecep>
+        <RznSocRecep>Andres Cabello</RznSocRecep>
+      </Receptor>
+      <Totales>
+        <IVA>-3420</IVA>
+        <MntExe>0</MntExe>
+        <MntNeto>-20000</MntNeto>
+        <MntTotal>-21420</MntTotal>
+        <TasaIVA>19</TasaIVA>
+        <Comisiones>
+          <ValComNeto>-2000</ValComNeto>
+          <ValComExe>0</ValComExe>
+          <ValComIVA>-380</ValComIVA>
+        </Comisiones>
+      </Totales>
+    </Encabezado>
+    <DocumentoInterno>
+      <COMP>138819</COMP>
+    </DocumentoInterno>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <DescuentoMonto>0</DescuentoMonto>
+      <DescuentoPct>0</DescuentoPct>
+      <IndExe>2</IndExe>
+      <MontoItem>-20000</MontoItem>
+      <CdgItem>
+        <TpoCodigo>INT1</TpoCodigo>
+        <VlrCodigo>
+        </VlrCodigo>
+      </CdgItem>
+      <NmbItem>Otros softwares/AddOn</NmbItem>
+      <DscItem>Otros softwares/AddOn</DscItem>
+      <PrcItem>0</PrcItem>
+      <QtyItem>1</QtyItem>
+      <RecargoMonto>0</RecargoMonto>
+      <RecargoPct>0</RecargoPct>
+      <TpoDocLiq>
+      </TpoDocLiq>
+    </Detalle>
+    <Comisiones>
+      <NroLinCom>1</NroLinCom>
+      <TipoMovim>C</TipoMovim>
+      <Glosa>LIF Comisiones</Glosa>
+      <ValComNeto>-2000</ValComNeto>
+      <ValComExe>0</ValComExe>
+      <ValComIVA>-380</ValComIVA>
+    </Comisiones>
+  </Liquidacion>
+</DTE>

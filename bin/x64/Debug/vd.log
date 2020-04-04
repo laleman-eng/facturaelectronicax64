@@ -1,0 +1,22 @@
+06-01-2015 06:06:43 [TMainClassExt] 
+06-01-2015 06:06:43 [TMainClassExt] Iniciando...
+06-01-2015 06:06:43 [TMainClassExt] 
+06-01-2015 06:09:21 [TMainClassExt] 
+06-01-2015 06:09:21 [TMainClassExt] Iniciando...
+06-01-2015 06:09:21 [TMainClassExt] 
+06-01-2015 06:18:28 [TMainClassExt] 
+06-01-2015 06:18:28 [TMainClassExt] Iniciando...
+06-01-2015 06:18:28 [TMainClassExt] 
+06-01-2015 06:22:49 [TMainClassExt] 
+06-01-2015 06:22:49 [TMainClassExt] Iniciando...
+06-01-2015 06:22:49 [TMainClassExt] 
+22-03-2019 05:31:38 [TMainClassExt] 
+22-03-2019 05:31:38 [TMainClassExt] Iniciando...
+22-03-2019 05:31:38 [TMainClassExt] 
+22-03-2019 05:31:39 [TMainClassExt] InitApp: aplicacion...
+22-03-2019 05:31:39 [TMainClassExt] ConectarApplication
+22-03-2019 05:31:39 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+22-03-2019 05:32:32 [TMainClassExt] Error en conexión a SAP SBO. (UI)
+Connection - Could not find SBO that match the connection string
+ ** Trace:    en SAPbouiCOM.SboGuiApiClass.Connect(String ConnectionStr)
+   en VisualD.Main.TMainClass.ConectarApplication() en C:\VisualK\Proyectos\PrismLibDLL\VisualD.Main\..\SBOLib-Source\VisualD.Main.pas:línea 113 **   Str: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056

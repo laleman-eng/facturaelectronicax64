@@ -1,0 +1,29 @@
+DECLARE @FechaD  varchar(8) = '20160101'
+	   ,@FechaH  Varchar(8) = '20160131'
+	   
+SELECT SUM(T1.Debit)- SUM(T1.Credit)									[ValorApertura]
+FROM OJDT T0
+JOIN JDT1 T1 ON T0.TransId = T1.TransId
+JOIN OACT T2 ON T1.Account = T2.AcctCode
+WHERE T0.RefDate < @FechaD	   
+
+SELECT CASE WHEN T1.Line_ID = 0 THEN 'U'
+								ELSE ''
+	   END																[TipoComprobante]
+	  ,CASE WHEN T1.Line_ID = 0 THEN CAST(T0.TransId AS VARCHAR)	
+								ELSE ''
+	   END																[NumeroComprobante]
+	  ,CASE WHEN T1.Line_ID = 0 THEN CONVERT(VARCHAR, T0.RefDate, 103)	
+								ELSE ''
+	   END																[FechaContable]
+	  ,CASE WHEN T1.Line_ID = 0 THEN T1.LineMemo
+								ELSE ''
+	   END																[GlosaInicio]
+	  ,T1.Account														[CodigoCuenta]
+	  ,T1.Debit															[Debe]
+	  ,T1.Credit														[Haber]
+FROM OJDT T0
+JOIN JDT1 T1 ON T0.TransId = T1.TransId
+JOIN OACT T2 ON T1.Account = T2.AcctCode
+WHERE T0.RefDate BETWEEN @FechaD AND @FechaH
+

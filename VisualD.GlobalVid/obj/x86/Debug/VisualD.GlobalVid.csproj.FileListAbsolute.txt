@@ -1,0 +1,188 @@
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.GlobalVid.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.GlobalVid.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.SBOFunctions.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.untLog.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.Core.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.MultiFunctions.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.Matrix_Helper.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.uEncrypt.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.SBOFunctions.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.untLog.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.Core.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.MultiFunctions.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.Matrix_Helper.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\bin\x86\Debug\VisualD.uEncrypt.pdb
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\Visualk\Lourdes Romana\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.GlobalVid.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.untLog.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.Core.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.uEncrypt.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.untLog.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.Core.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\x86\Debug\VisualD.uEncrypt.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\Users\acabello\Desktop\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2 Los Leones\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+C:\VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+Z:\Repaldo VisualK\Factura Electronica VK2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.dll
+\\vmware-host\Shared Folders\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug\VisualD.GlobalVid.pdb

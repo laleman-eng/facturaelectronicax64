@@ -1,0 +1,5 @@
+Z:\Repaldo VisualK\Factura Electronica VK 2\LibrosElectronicos\LibrosElectronicos\bin\Debug\LibrosElectronicos.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\LibrosElectronicos\LibrosElectronicos\bin\Debug\LibrosElectronicos.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\LibrosElectronicos\LibrosElectronicos\obj\Debug\LibrosElectronicos.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\LibrosElectronicos\LibrosElectronicos\obj\Debug\LibrosElectronicos.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\LibrosElectronicos\LibrosElectronicos\obj\Debug\LibrosElectronicos.csprojResolveAssemblyReference.cache

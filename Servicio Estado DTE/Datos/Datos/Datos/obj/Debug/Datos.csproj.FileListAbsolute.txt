@@ -1,0 +1,10 @@
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.exe.config
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\bin\Debug\Datos.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Form1.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Properties.Resources.resources
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.exe
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.pdb
+Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Datos\Datos\Datos\obj\Debug\Datos.Inicio.resources

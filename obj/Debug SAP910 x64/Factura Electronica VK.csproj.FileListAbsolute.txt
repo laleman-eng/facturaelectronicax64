@@ -1,0 +1,77 @@
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Factura Electronica.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Factura Electronica.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Factura Electronica.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\CrystalDecisions.Shared.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\DLLparaXML.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Interop.SAPbouiCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Newtonsoft.Json.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\RestSharp.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\ServiceStack.Text.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.ADOSBOScriptExecute.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.ChooseFromListSubQuery.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Core.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Dimensions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOne.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOneForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOneListener.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.GlobalVid.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Main.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MainObjBase.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MasterDataMatrixForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Matrix_Helper.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MenuConfFr.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MultiFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Visuald.ReportWindowFr.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOCrystalPreview.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOFunctions.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOGeneralService.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOObjectMg1.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.uEncrypt.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.untLog.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.vkBaseForm.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.vkFormInterface.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Interop.SBOReporterOne.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\log4net.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\CrystalDecisions.Enterprise.PluginManager.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Foundation.Logging.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\DLLparaXML.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.GlobalVid.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.ChooseFromListSubQuery.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Core.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Dimensions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOne.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOneForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.DynamicOneListener.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Main.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MainObjBase.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MasterDataMatrixForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.Matrix_Helper.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MenuConfFr.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.MultiFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\Visuald.ReportWindowFr.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOCrystalPreview.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOFunctions.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOGeneralService.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.SBOObjectMg1.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.uEncrypt.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.untLog.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.vkBaseForm.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.vkFormInterface.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\VisualD.ADOSBOScriptExecute.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.ebus.netmodule
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.fssl.netmodule
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.Ssl.netmodule
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.netmodule
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\bin\Debug SAP910 x64\BusinessObjects.Enterprise.Sdk.ZipLib.netmodule
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura_Electronica_VK.Form1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura_Electronica_VK.Properties.Resources.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura Electronica.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug SAP910 x64\Factura Electronica.pdb

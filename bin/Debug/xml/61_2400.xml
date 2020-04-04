@@ -1,0 +1,88 @@
+<DTE>
+  <Documento>
+    <Encabezado>
+      <IdDoc>
+        <FchEmis>2018-02-14</FchEmis>
+        <FchVenc>2018-02-14</FchVenc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>0</Folio>
+        <MntBruto>0</MntBruto>
+        <MntCancel>0</MntCancel>
+        <SaldoInsol>0</SaldoInsol>
+      </IdDoc>
+      <Emisor>
+        <CdgVendedor>Héctor Aranzueque</CdgVendedor>
+        <RUTEmisor>14147842-7</RUTEmisor>
+        <RznSoc>Visual Knowledge Chile S.A.</RznSoc>
+        <GiroEmis>xxxxx</GiroEmis>
+        <Sucursal>Central</Sucursal>
+        <Telefono>232217888</Telefono>
+      </Emisor>
+      <Receptor>
+        <CiudadPostal>Santiago</CiudadPostal>
+        <CiudadRecep>Santiago</CiudadRecep>
+        <CmnaPostal>Santiago</CmnaPostal>
+        <CmnaRecep>Santiago</CmnaRecep>
+        <Contacto>Andres Matias</Contacto>
+        <CorreoRecep>pelo3000@hotmail.com</CorreoRecep>
+        <DirPostal>Pasaje uno 990</DirPostal>
+        <DirRecep>Pasaje uno 990</DirRecep>
+        <GiroRecep>xxxx</GiroRecep>
+        <RUTRecep>14147842-7</RUTRecep>
+        <RznSocRecep>Andres Cabello</RznSocRecep>
+      </Receptor>
+      <Totales>
+        <CredEC>0</CredEC>
+        <IVA>19</IVA>
+        <IVANoRet>0</IVANoRet>
+        <IVAProp>0</IVAProp>
+        <IVATerc>0</IVATerc>
+        <MntBase>0</MntBase>
+        <MntExe>0</MntExe>
+        <MntMargenCom>0</MntMargenCom>
+        <MntNeto>100</MntNeto>
+        <MntTotal>119</MntTotal>
+        <MontoNF>0</MontoNF>
+        <MontoPeriodo>0</MontoPeriodo>
+        <SaldoAnterior>0</SaldoAnterior>
+        <TasaIVA>19</TasaIVA>
+        <VlrPagar>0</VlrPagar>
+        <OtraMoneda>0</OtraMoneda>
+      </Totales>
+    </Encabezado>
+    <DocumentoInterno>
+      <COMP>141215</COMP>
+    </DocumentoInterno>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <DescuentoMonto>0</DescuentoMonto>
+      <DescuentoPct>0</DescuentoPct>
+      <IndExe>2</IndExe>
+      <MontoItem>100</MontoItem>
+      <CdgItem>
+        <TpoCodigo>INT1</TpoCodigo>
+        <VlrCodigo>SBO.ADO.OTR</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Otros softwares/AddOn</NmbItem>
+      <DscItem>Otros softwares/AddOn</DscItem>
+      <PrcItem>100</PrcItem>
+      <PrcRef>0</PrcRef>
+      <QtyItem>1</QtyItem>
+      <QtyRef>0</QtyRef>
+      <RecargoMonto>0</RecargoMonto>
+      <RecargoPct>0</RecargoPct>
+      <UnmdItem>UN</UnmdItem>
+      <CodImpAdic>
+      </CodImpAdic>
+      <RecargoMonto>0</RecargoMonto>
+    </Detalle>
+  </Documento>
+  <Referencia>
+    <NroLinRef>1</NroLinRef>
+    <TpoDocRef>33</TpoDocRef>
+    <FolioRef>108</FolioRef>
+    <FchRef>2018-02-01</FchRef>
+    <CodRef>1</CodRef>
+    <RazonRef>xxx</RazonRef>
+  </Referencia>
+</DTE>

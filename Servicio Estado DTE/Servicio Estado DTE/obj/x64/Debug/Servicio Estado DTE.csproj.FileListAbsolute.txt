@@ -1,0 +1,16 @@
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\Servicio Estado DTE.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\Servicio Estado DTE.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\Servicio Estado DTE.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\x64\Debug\ServiceStack.Text.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio_Estado_DTE.Service1.resources
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio Estado DTE.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x64\Debug\Servicio Estado DTE.pdb

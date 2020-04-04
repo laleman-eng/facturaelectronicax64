@@ -1,0 +1,14 @@
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\EnviarFM.exe.config
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\EnviarFM.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\EnviarFM.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.Form1.resources
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.Properties.Resources.resources
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.csproj.GenerateResource.Cache
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.exe
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.pdb
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\Interop.SAPbobsCOM.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\RestSharp.dll
+Z:\Repaldo VisualK\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\ServiceStack.Text.dll
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\EnviarFM\EnviarFM\bin\Debug\EnviarFM.exe.config
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.exe
+C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\EnviarFM\EnviarFM\obj\Debug\EnviarFM.pdb

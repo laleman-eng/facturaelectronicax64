@@ -1,0 +1,52 @@
+﻿Instalando ensamblado 'C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Instalando el servicio Servicio Estado DTE...
+El servicio Servicio Estado DTE se ha instalado correctamente.
+Creando el origen de EventLog Servicio Estado DTE en el registro Application...
+Confirmando ensamblado 'C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Visualk\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Installing assembly 'C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Installing service Servicio Estado DTE...
+Service Servicio Estado DTE has been successfully installed.
+Creating EventLog source Servicio Estado DTE in log Application...
+Committing assembly 'C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\VisualK\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Instalando ensamblado 'C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Instalando el servicio Servicio Estado DTE...
+El servicio Servicio Estado DTE se ha instalado correctamente.
+Creando el origen de EventLog Servicio Estado DTE en el registro Application...
+Confirmando ensamblado 'C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Instalando ensamblado 'C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Instalando el servicio Servicio Estado DTE...
+Creando el origen de EventLog Servicio Estado DTE en el registro Application...
+Deshaciendo ensamblado 'C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.InstallLog
+   assemblypath = C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+Restaurando el registro de eventos al estado anterior para el origen Servicio Estado DTE.
