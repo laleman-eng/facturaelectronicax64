@@ -94,4 +94,8 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Fa
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura_Electronica_VK.Form1.resources
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura_Electronica_VK.Properties.Resources.resources
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\Debug\Factura Electronica VK.csproj.GenerateResource.Cache
-C:\VisualK\FacturaElectronicax64\bin\Debug\Factura Electronica.exe.config
+C:\VisualK\facturaelectronicax64\obj\Debug\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\obj\Debug\Factura_Electronica_VK.Form1.resources
+C:\VisualK\facturaelectronicax64\obj\Debug\Factura_Electronica_VK.Properties.Resources.resources
+C:\VisualK\facturaelectronicax64\obj\Debug\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\VisualK\facturaelectronicax64\bin\Debug\Factura Electronica.exe.config

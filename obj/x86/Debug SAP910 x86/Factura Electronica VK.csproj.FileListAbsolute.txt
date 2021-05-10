@@ -113,3 +113,8 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debu
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug SAP910 x86\Factura_Electronica_VK.Properties.Resources.resources
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug SAP910 x86\Factura Electronica VK.csproj.GenerateResource.Cache
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x86\Debug SAP910 x86\Factura Electronica.exe
+C:\VisualK\facturaelectronicax64\obj\x86\Debug SAP910 x86\Factura Electronica VK.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\obj\x86\Debug SAP910 x86\Factura_Electronica_VK.Form1.resources
+C:\VisualK\facturaelectronicax64\obj\x86\Debug SAP910 x86\Factura_Electronica_VK.Properties.Resources.resources
+C:\VisualK\facturaelectronicax64\obj\x86\Debug SAP910 x86\Factura Electronica VK.csproj.GenerateResource.Cache
+C:\VisualK\facturaelectronicax64\obj\x86\Debug SAP910 x86\Factura Electronica.exe

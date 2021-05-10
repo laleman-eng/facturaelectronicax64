@@ -201,3 +201,6 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x64\Debu
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x64\Debug SAP910 x64\Factura Electronica VK.csproj.GenerateResource.Cache
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x64\Debug SAP910 x64\Factura Electronica.exe
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\obj\x64\Debug SAP910 x64\Factura Electronica.pdb
+C:\VisualK\facturaelectronicax64\bin\Debug\Factura Electronica.exe.config
+C:\VisualK\facturaelectronicax64\obj\x64\Debug SAP910 x64\Factura Electronica.exe
+C:\VisualK\facturaelectronicax64\obj\x64\Debug SAP910 x64\Factura Electronica.pdb

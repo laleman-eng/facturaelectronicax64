@@ -50,3 +50,13 @@ Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Ser
 Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb
 Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
 Z:\iCloud Drive\Repaldo VisualK\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.pdb
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio_Estado_DTE.Service1.resources
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.csproj.GenerateResource.Cache
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.exe
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\Debug\Servicio Estado DTE.pdb

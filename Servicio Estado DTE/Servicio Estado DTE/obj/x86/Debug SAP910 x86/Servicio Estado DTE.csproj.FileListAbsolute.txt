@@ -10,3 +10,11 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Est
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio_Estado_DTE.Service1.resources
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio Estado DTE.csproj.GenerateResource.Cache
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio Estado DTE.exe
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe.config
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Servicio Estado DTE.exe
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio Estado DTE.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio_Estado_DTE.ProjectInstaller.resources
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio_Estado_DTE.Service1.resources
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio Estado DTE.csproj.GenerateResource.Cache
+C:\VisualK\facturaelectronicax64\Servicio Estado DTE\Servicio Estado DTE\obj\x86\Debug SAP910 x86\Servicio Estado DTE.exe

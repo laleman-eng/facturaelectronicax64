@@ -29,3 +29,20 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.Matrix_Helper.pdb
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.uEncrypt.pdb
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\x86\Debug SAP910 x86\DLLparaXML.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\DLLparaXML.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\Interop.SAPbouiCOM.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.untLog.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.Core.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.uEncrypt.dll
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.untLog.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.Core.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.uEncrypt.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\obj\x86\Debug SAP910 x86\DLLparaXML.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\obj\x86\Debug SAP910 x86\DLLparaXML.dll

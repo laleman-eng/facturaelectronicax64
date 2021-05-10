@@ -37,3 +37,24 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.Glob
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\VisualD.GlobalVid\obj\x86\Debug SAP910 x86\VisualD.GlobalVid.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.GlobalVid.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\Interop.SAPbobsCOM.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\Interop.SAPbouiCOM.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.untLog.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.Core.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.dll
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.MultiFunctions.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOFunctions.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOObjectMg1.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.untLog.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.Core.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.Matrix_Helper.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.SBOGeneralService.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\bin\Debug\VisualD.uEncrypt.pdb
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\obj\x86\Debug SAP910 x86\VisualD.GlobalVid.csprojResolveAssemblyReference.cache
+C:\VisualK\facturaelectronicax64\VisualD.GlobalVid\obj\x86\Debug SAP910 x86\VisualD.GlobalVid.dll

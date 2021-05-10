@@ -21,3 +21,4 @@ C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\bin\Debug\VisualD.untLog.pdb
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.dll
 C:\Users\ajose\Documents\VisualK\Proyectos\Factura Electronica VK 2\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.pdb
+C:\VisualK\facturaelectronicax64\DLL Crea XML\DLLparaXML\obj\Debug\DLLparaXML.csprojResolveAssemblyReference.cache
